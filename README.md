@@ -9,9 +9,11 @@ This Assignment was completed within the anaconda environment running Jupyter No
 
 2. Download either of the **.ipynb** files and the **video_games.csv** file to your system in a designated folder. 
 
-3. Launch Anaconda and navigate to and open the designated folder you saved the files into. 
+3. Launch Anaconda and launch Jupyter Notebook from the dashboard. 
 
-4. Open the **.ipynb** file and click "run" to run the code. 
+5. Navigate to and open the designated folder you saved the files into. 
 
-5. the application should now be running. To get a game suggestion, edit the value in the final code block "recommend_game(your_game_here)". -> this game must be an exact match. refer to the .csv file for usable titles.
+6. Open the **.ipynb** file and click "run" to run the code. 
+
+7. To get a game suggestion, edit the value in the final code block "recommend_game(your_game_here)". -> this game must be an exact match. refer to the .csv file for usable titles.
 
