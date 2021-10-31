@@ -15,8 +15,8 @@ This Assignment was completed within the anaconda environment running Jupyter No
 
 6. Open the **.ipynb** file and click "run" to run the code.
  
-To get a game suggestion, edit the value in the final code block "recommend_game(your_game_here)". This game must be an exact match. 
-refer to the .csv file for usable titles.
+_To get a game suggestion, edit the value in the final code block "recommend_game(your_game_here)". This game must be an exact match. 
+refer to the .csv file for usable titles._
 
 
-The Screencast for this Assignment can be found by following this link: https://iadt-my.sharepoint.com/:v:/g/personal/n00181237_iadt_ie/EYiQgpkFGbdLnga81nyAIOMBYwJE1d8JJhhgHOfp-qqqiA?e=7xsQ71
+## The Screencast for this Assignment can be found by following this link: https://iadt-my.sharepoint.com/:v:/g/personal/n00181237_iadt_ie/EYiQgpkFGbdLnga81nyAIOMBYwJE1d8JJhhgHOfp-qqqiA?e=7xsQ71
