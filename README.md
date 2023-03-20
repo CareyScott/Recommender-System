@@ -1,7 +1,7 @@
 # Recommender-System-Y4
-This is a repository for a Y4 Continuous Assessment assignment In IADT (N00181237)
+This is a recommender system that suggests video games using Python
 
-This Assignment was completed within the anaconda environment running Jupyter Notebook - Python 3. 
+This was completed within the anaconda environment running Jupyter Notebook - Python 3. 
 
 # To run this applicaiton complete the following:
 
