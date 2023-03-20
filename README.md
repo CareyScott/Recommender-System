@@ -1,4 +1,4 @@
-# Recommender-System-Y4
+# Recommender-System
 This is a recommender system that suggests video games using Python
 
 This was completed within the anaconda environment running Jupyter Notebook - Python 3. 
